@@ -23,8 +23,8 @@ export const botConfig = {
     // 5 = Competing
     activities: [
       {
-        name: "Custom Status", // required by Discord API, not shown in the client
-        state: "made by mona",     // this is what people actually see
+        name: "Solace Zad Bot || made by mona", // required by Discord API, not shown in the client
+        state: "Ada kesalahan di bot?? bisa join server supports di bio",     // this is what people actually see
         type: 1,               // Custom
       },
     ],
